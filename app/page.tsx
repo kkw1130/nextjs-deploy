@@ -5,7 +5,7 @@ export default function Home() {
       <h1 className='text-6xl'>
         제 첫 번째로 배포하는 Next.js 웹사이트입니다!
       </h1>
-      <p className='text-4xl'>Vercel로 연결해서 배포해요!</p>
+      <p className='text-4xl'>Vercel로 배포했어요!!</p>
     </div>
   );
 }
